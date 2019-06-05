@@ -1,0 +1,250 @@
+== <font size="5" color="#011111">upd8</font> ==
+{{HuijiCollapsed
+|title=Project A.I.
+|ID=1
+|style=bar
+|text=&nbsp;{{Project A.I.}}
+|type=open
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=ハロクリ
+|ID=2
+|style=bar
+|text=&nbsp;{{ハロクリ}}
+|title-class=bg-info
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=电脑文化俱乐部 
+|ID=3
+|style=bar
+|text=&nbsp;{{电脑文化俱乐部 }}
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=有閑喫茶あにまーれ
+|ID=4
+|style=bar
+|text=&nbsp;{{有閑喫茶あにまーれ}}
+|title-class=bg-primary
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=ハニーストラップ
+|ID=5
+|style=bar
+|text=&nbsp;{{ハニーストラップ}}
+|title-class=bg-success
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=ミギナナメ／ 
+|ID=6
+|style=bar
+|text=&nbsp;{{ミギナナメ／}}
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=其他
+|ID=7
+|style=bar
+|text=&nbsp;{{Upd8其他}}
+|title-class=bg-info
+|body-style=margin-bottom:0px;
+}}
+
+== <font size="5" color="#12a0fb">にじさんじ(彩虹社)</font> ==
+
+{{HuijiCollapsed
+|title=一期生
+|ID=8
+|style=bar
+|text=&nbsp;{{彩虹一期生}}
+|type=open
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=二期生
+|ID=9
+|style=bar
+|text=&nbsp;{{彩虹二期生}}
+|title-class=bg-info
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=Gamers
+|ID=10
+|style=bar
+|text=&nbsp;{{彩虹Gamers}}
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=SEEDs
+|ID=11
+|style=bar
+|text=&nbsp;{{彩虹SEEDs}}
+|title-class=bg-primary
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=合并之后成员
+|ID=12
+|style=bar
+|text=&nbsp;{{彩虹合并后}}
+|title-class=bg-success
+|body-style=margin-bottom:0px;
+}}
+
+== <font size="5" color="#337ab7">.LIVE</font> ==
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+|[[image:電脳少女シロ-head.jpg|105px|link=电脑少女小白]]||[[image:ばあちゃる-head.jpg|105px|link=ばあちゃる]]||[[image:もこ田めめめ-head.jpg|105px|link=もこ田めめめ]]||[[image:夜桜たま-head.jpg|105px|link=夜桜たま]]||[[image:金剛いろは-head.jpg|105px|link=金剛いろは]]||[[image:北上双葉-head.jpg|105px|link=北上双葉]]||[[image:花京院ちえり-head.jpg|105px|link=花京院ちえり]]||[[image:猫乃木もち-head.jpg|105px|link=猫乃木もち]]||[[image:カルロ・ピノ-head.jpg|105px|link=カルロ・ピノ]]
+|- align="center"
+||[[电脑少女小白]]||[[ばあちゃる]]||[[もこ田めめめ]]||[[夜桜たま]]||[[金剛いろは]]||[[北上双葉]]||[[花京院ちえり]]||[[猫乃木もち]]||[[カルロ・ピノ]]
+|-
+|[[image:神楽すず-head.jpg|105px|link=神楽すず]]||[[image:八重沢なとり-head.jpg|105px|link=八重沢なとり]]||[[image:ヤマト・イオリ-head.jpg|105px|link=ヤマト・イオリ]]||[[image:牛巻りこ-head.jpg|105px|link=牛巻りこ]]||[[image:木曽あずき-head.jpg|105px|link=木曽あずき]]
+|- align="center"
+|[[神楽すず]]||[[八重沢なとり]]||[[ヤマト・イオリ]]||[[牛巻りこ]]||[[木曽あずき]]
+|}
+
+== <font size="5" color="#478efd">ENTUM</font> ==
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+|[[image:ミライアカリ-head.jpg|105px|link=ミライアカリ]]||[[image:猫宮ひなた-head.jpg|105px|link=猫宮ひなた]]||[[image:もちひよこ-head.jpg|105px|link=もちひよこ]]||[[image:届木ウカ-head.jpg|105px|link=届木ウカ]]||[[image:ツキミユメノ-head.jpg|105px|link=ツキミユメノ]]||[[image:ニーツ-head.jpg|105px|link=ニーツ]]||[[image:ミディ-head.jpg|105px|link=ミディ]]||[[image:花野蜜-head.jpg|105px|link=花野蜜]]||[[image:皆守ひいろ-head.jpg|105px|link=皆守ひいろ]]
+|- align="center"
+||[[ミライアカリ]]||[[猫宮ひなた]]||[[もちひよこ]]||[[届木ウカ]]||[[ツキミユメノ]]||[[ニーツ]]||[[ミディ]]||[[花野蜜]]||[[皆守ひいろ]]
+|-
+|[[image:御来屋 久遠-head.jpg|105px|link=御来屋 久遠]]||[[image:月夜ソラ-head.jpg|105px|link=月夜ソラ]]
+|- align="center"
+|[[御来屋 久遠]]||[[月夜ソラ]]
+|}
+
+
+== <font size="5" color="#337ab7">Project Paryi</font> ==
+{{HuijiCollapsed
+|title=ぱりぷろ（已解散）
+|text=&nbsp;{{ぱりぷろ}}
+|ID=paryi-1
+|style=bar
+|type=open
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+
+{{HuijiCollapsed
+|title=ちゅこらら
+|text=&nbsp;{{ちゅこらら}}
+|ID=paryi-2
+|style=bar
+|type=open
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+
+
+
+
+== <font size="5" color="#333333">IRIAM</font> ==
+
+
+== <font size="5" color="#333333">ホロライブ</font> ==
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+|[[image:ときのそら-head.jpg|105px|link=ときのそら]]||[[image:白上フブキ-head.jpg|105px|link=白上フブキ]]||[[image:癒月ちょこ-head.jpg|105px|link=癒月ちょこ]]||[[image:ロボ子さん-head.jpg|105px|link=ロボ子さん]]||[[image:湊あくあ-head.jpg|105px|link=湊あくあ]]||[[image:赤井はあと-head.jpg|105px|link=赤井はあと]]||[[image:夏色まつり-head.jpg|105px|link=夏色まつり]]||[[image:大神ミオ-head.jpg|105px|link=大神ミオ]]||[[image:大空スバル-head.jpg|105px|link=大空スバル]]
+|- align="center"
+||[[ときのそら]]||[[白上フブキ]]||[[癒月ちょこ]]||[[ロボ子さん]]||[[湊あくあ]]||[[赤井はあと]]||[[夏色まつり]]||[[大神ミオ]]||[[大空スバル]]
+|-
+|[[image:百鬼あやめ-head.jpg|105px|link=百鬼あやめ]]||[[image:紫咲シオン-head.jpg|105px|link=紫咲シオン]]||[[image:夜空メル-head.jpg|105px|link=夜空メル]]||[[image:アキ・ローゼンタール-head.jpg|105px|link=アキ・ローゼンタール]]||[[image:猫又おかゆ-head.jpg|105px|link=猫又おかゆ]]||[[image:さくらみこ-head.jpg|105px|link=さくらみこ]]||[[image:戌神ころね-head.jpg|105px|link=戌神ころね]]
+|- align="center"
+||[[百鬼あやめ]]||[[紫咲シオン]]||[[夜空メル]]||[[アキ・ローゼンタール|アキ・<br>ローゼンタール]]||[[猫又おかゆ]]||[[さくらみこ]]||[[戌神ころね]]
+|}
+
+== <font size="5" color="#333333">星空学园</font> ==
+{| class="wikitable sortable" align="center" -
+|[[image:かんな-head.jpg|105px|link=Kanna]]||[[image:天輝おこめ-head.jpg|105px|link=Okome]]||[[image:夏目シシ-head.jpg|105px|link=Shishi]]
+|- align="center"
+||[[Kanna]]||[[Okome|Okome<br>(毕业)]]||[[Shishi|Shishi<br>(毕业)]]
+|}
+
+== <font size="5" color="#333333">エイレーン一家</font> ==
+{| class="wikitable sortable" align="center" -
+|[[image:ヨメミ-head.jpg|105px|link=ヨメミ]]||[[image:夏実萌恵-head.jpg|105px|link=夏実萌恵]]||[[image:ベイレーン-head.jpg|105px|link=ベイレーン]]||[[image:エイレーン-head.jpg|105px|link=エイレーン]]
+|- align="center"
+||[[ヨメミ]]||[[夏実萌恵]]||[[ベイレーン]]||[[エイレーン]]
+|}
+
+== <font size="5" color="#333333">GEMS COMPANY</font> ==
+{| class="wikitable sortable" align="center" -
+|[[File:城乃柚希.png|105px|link=城乃柚希]]||[[File:赤羽YUKINO.png|105px|link=赤羽YUKINO]]||[[File:花菱抚子.png|105px|link=花菱抚子]]||[[File:一文字MAYA.png|105px|link=一文字MAYA]]||[[File:音羽雫.png|105px|link=音羽雫]]||[[File:珠根UTA.png|105px|link=珠根UTA]]
+|- align="center"
+||[[城乃柚希]]||[[赤羽YUKINO]]||[[花菱抚子]]||[[一文字MAYA]]||[[音羽雫]]||[[珠根UTA]]
+|-
+
+|- align="center"
+|}
+
+== <font size="5" color="#333333">株式会社Unlimited</font> ==
+{{HuijiCollapsed
+|title=游戏部企划
+|ID=13
+|style=bar
+|text=&nbsp;{{游戏部企划}}
+|type=open
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=可可亚音乐
+|ID=14
+|style=bar
+|text=&nbsp;{{可可亚音乐}}
+|title-class=bg-primary
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=青桐高校
+|ID=15
+|style=bar
+|text=&nbsp;{{青桐高校}}
+|title-class=bg-success
+|body-style=margin-bottom:0px;
+}}
+
+
+
+
+
+== <font size="5" color="#333333">WFLE</font> ==
+
+
+== <font size="5" color="#333333">サイバー系</font> ==
+
+
+== <font size="5" color="#333333">Re:AcT</font> ==
+
+
+== <font size="5" color="#333333">ZIG</font> ==
+
+
+== <font size="5" color="#333333">虚研社</font> ==
+
+
+== <font size="5" color="#333333">战斗吧 歌姬</font> ==
+
+
+== <font size="5" color="#333333">其他团体</font> ==
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+|[[image:megu-head.jpg|105px|link=东云惠]]||[[image:siva-head.jpg|105px|link=Siva小虾鱼]]||[[image:BBD-head.jpg|105px|link=BiBiDao]]||[[image:兰若_Ruo.png|105px|link=兰若_Ruo]]||[[image:斗和キセキ-head.jpg|105px|link=斗和キセキ]]||[[File:富士　葵.png|105px|link=富士　葵]]||[[image:luna-head.jpg|105px|link=辉夜月]]||[[image:pph-head.jpg|105px|link=PPH]]||[[image:米露可-拍手叫好.png|105px|link=米露可]]
+|- align="center"
+||[[东云惠]]||[[Siva小虾鱼]]||[[BiBiDao]]||[[兰若_Ruo]]||[[斗和キセキ]]||[[富士　葵]]||[[辉夜月]]||[[PPH]]||[[米露可]]
+|}
+
+== <font size="5" color="#333333">个人</font> ==
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+|[[image:神楽七奈-head.jpg|105px|link=神乐七奈]]||[[image:綾奈なな-head.jpg|105px|link=綾奈なな]]||[[image:安堂いなり-head.jpg|105px|link=安堂いなり]]||[[image:苍乃幽姬.jpg|105px|link=苍乃幽姬]]
+|- align="center"
+||[[神乐七奈]]||[[綾奈なな]]||[[安堂いなり]]||[[苍乃幽姬]]
+|}

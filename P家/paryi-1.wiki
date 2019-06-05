@@ -1,0 +1,36 @@
+
+<includeonly>
+<center>
+{| class="wikitable sortable" align="center" -
+  ||[[image:头像-堕天使.jpg|105px|link=堕天使]]
+  ||[[image:头像-神乐魅娅.jpg|105px|link=神乐魅娅]]
+  ||[[image:头像-松鼠.jpg|105px|link=松鼠]]
+  ||[[image:头像-莫里纳加米.jpg|105px|link=莫里纳加米]]
+  ||[[image:头像-黑白角龙.jpg|105px|link=黑白角龙]]
+  ||[[image:头像-阿律.jpg|105px|link=阿律]]
+  ||[[image:头像-花园猫.jpg|105px|link=花园猫]]
+  ||[[image:头像-ENA.jpg|105px|link=ENA]]
+
+|- align="center"
+  ||[[堕天使|ユメノシオリ]]<br><sub>堕天使</sub> 
+  ||[[神乐魅娅|神楽めあ]]<br><sub>神乐魅娅</sub>
+  ||[[松鼠|千草はな]]<br><sub>松鼠</sub>
+  ||[[莫里纳加米|森永みう]]<br><sub>莫里纳加米</sub>
+  ||[[黑白角龙|有栖マナ]]<br><sub>黑白角龙</sub>
+  ||[[阿律|高槻りつ]]<br><sub>阿律</sub>
+  ||[[花园猫|花園セレナ]]<br><sub>花园猫</sub>
+  ||[[ENA]]
+  
+|}
+</center>
+</includeonly>
+
+
+<noinclude>
+这是“ぱりぷろ”模板。调用它时应该采用如下格式：
+<pre>
+{{ぱりぷろ}}
+</pre>
+=== 预览效果 ===
+{{ぱりぷろ}}
+</noinclude>

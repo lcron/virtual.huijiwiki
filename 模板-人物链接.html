@@ -1,0 +1,53 @@
+<noinclude>
+这是“人物链接”模板。调用它时应该采用如下格式：
+<pre>
+{{人物链接
+|名字=
+|别名=
+|连接=
+|头像=
+}}
+</pre>
+但一般是采用简化后的格式
+<pre>
+{{人物链接|名字}}
+</pre>
+
+=== 效果 ===
+{{人物链接}}
+
+编辑页面以阅读模板文本。
+</noinclude><includeonly>
+<span style="height:128px;width:512px">
+  <span style="height:128px;width:128px;background-color:#D1E4E6">什么鬼，这里为什么会被渲染成代码块?</span>
+<span style="height:128px;width:384px">
+名字
+</span>
+</span>
+
+</includeonly>
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"名字": {
+			"suggested": true,
+"type":"string"
+		},
+		"别名": {
+			"suggested": true,
+"type":"string"
+		},
+		"连接": {
+			"suggested": true,
+"type":"string"
+		},
+   	"头像": {
+			"suggested": true,
+"type":"wiki-file-name"
+
+		}
+	}
+}
+</templatedata>
+</noinclude>

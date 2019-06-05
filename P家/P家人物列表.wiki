@@ -1,0 +1,37 @@
+
+== <font size="5" color="#337ab7">Project Paryi</font> ==
+
+{{HuijiCollapsed
+|title=ぱりぷろ（已解散）
+|ID=paryi-1
+|style=bar
+|type=open
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+|text=&nbsp;{| class="wikitable sortable" align="center" -
+||[[image:图片1|105px|link=人物1]] ||[[image:图片2|105px|link=人物2]] 
+
+|- align="center"
+  ||[[人物1]] 
+  ||[[人物2]] 
+|}
+}}
+
+{{HuijiCollapsed
+|title=ちゅこらら
+|ID=paryi-2
+|style=bar
+|type=open
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+|text=&nbsp;{| class="wikitable sortable" align="center" -
+||[[image:图片1|105px|link=人物1]]
+||[[image:图片2|105px|link=人物2]] 
+
+|- align="center"
+ ||[[人物1]] 
+ ||[[人物2]] 
+|}
+}}
+
+

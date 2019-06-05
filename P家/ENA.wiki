@@ -1,0 +1,27 @@
+{{需要扩展}}{{需要校对}}{{需要帮助}}
+{{人物信息栏
+|名称=ENA
+|图片=ENA.jpg
+|其他名称=ENA
+|所属团体=Project Paryi
+|性别=女
+|生日=7月7日
+|标签=P家
+|youtube=[https://www.youtube.com/channel/UCAjPpHpxhxZF9EiROXwr9kQ]
+|bilibili=无
+|twitter=[https://twitter.com/ENA_Vtuber ENA_Vtuber]
+|showroom=无
+|一句话描述={{Tip|content=待补充}}
+|人物描述=待补充<br /><br />
+}}
+
+
+== <font size="5" color="#5a5a5a" center>大事件</font> ==
+
+{{时间轴/开始}}
+{{时间轴/节点
+|时间=2018年6月3日
+|标题=待补充
+|内容=待补充
+}}
+{{时间轴/结束}}

@@ -1,0 +1,27 @@
+{{需要扩展}}{{需要校对}}{{需要帮助}}
+{{人物信息栏
+|名称=花园猫
+|图片=花园猫.jpg
+|其他名称=花園セレナ
+|所属团体=Project Paryi
+|性别=女
+|生日=2月22日
+|标签=P家
+|youtube=[https://www.youtube.com/channel/UCRXBTd80F5IIWWY4HatJ5Ug]
+|bilibili=[]
+|twitter=[https://twitter.com/hanazono_serena hanazono_serena]
+|showroom=无
+|一句话描述={{Tip|content=待补充}}
+|人物描述=待补充<br /><br />
+}}
+
+
+== <font size="5" color="#5a5a5a" center>大事件</font> ==
+
+{{时间轴/开始}}
+{{时间轴/节点
+|时间=2018年6月3日
+|标题=待补充
+|内容=待补充
+}}
+{{时间轴/结束}}
