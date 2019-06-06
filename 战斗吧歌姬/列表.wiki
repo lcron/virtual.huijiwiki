@@ -1,0 +1,17 @@
+{| class="wikitable sortable" align="center" bgcolor="#f3eeef" -
+  ||[[image:李清歌-head.png|105px|link=李清歌]]
+  ||[[image:神宫司玉藻-head.png|105px|link=神宫司玉藻]]
+  ||[[image:卡缇娅-head.png|105px|link=卡缇娅]]
+  ||[[image:伊莎贝拉-head.png|105px|link=伊莎贝拉]]
+  ||[[image:罗兹-head.png|105px|link=罗兹]]
+  ||[[image:墨汐-head.png|105px|link=墨汐]]
+
+|- align="center"
+  ||[[李清歌]]
+  ||[[神宫司玉藻]]
+  ||[[卡缇娅]]
+  ||[[伊莎贝拉]]
+  ||[[罗兹]]
+  ||[[墨汐]]
+
+|}
