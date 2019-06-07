@@ -1,31 +1,31 @@
 <includeonly>
 <center>
 {| class="wikitable sortable" align="center" bgcolor="#f3eeef" - 
-  ||[[image:头像-晓千秋.jpg|105px|link=晓千秋]]
-  ||[[image:头像-oto酱.jpg|105px|link=oto酱]]
-  ||[[image:头像-果冻妹.jpg|105px|link=果冻妹]]
-  ||[[image:头像-古守血游.jpg|105px|link=古守血游]]
-  ||[[image:头像-千铃鸣.jpg|105px|link=千铃鸣]]
-  ||[[image:头像-缀目日伞.jpg|105px|link=缀目日伞]]
-  ||[[image:头像-緋赤エリオ.jpg|105px|link=緋赤エリオ]]
-  ||[[image:头像-真黑花音.jpg|105px|link=真黑花音]]
-  ||[[image:头像-礼绮罗.jpg|105px|link=礼绮罗]]
-  ||[[image:头像-柚月はる.jpg|105px|link=柚月はる]]
-  ||[[image:头像霜月みのり-.jpg|105px|link=霜月みのり]]
-  ||[[image:头像-p妈.jpg|105px|link=p妈]]
+  ||[[image:晓千秋-head.jpg|105px|link=晓千秋]]
+  ||[[image:oto酱-head.jpg|105px|link=oto酱]]
+  ||[[image:果冻妹-head.jpg|105px|link=果冻妹]]
+  ||[[image:古守血游-head.jpg|105px|link=古守血游]]
+  ||[[image:千铃鸣-head.jpg|105px|link=千铃鸣]]
+  ||[[image:缀目日伞-head.jpg|105px|link=缀目日伞]]
+  ||[[image:緋赤エリオ-head.jpg|105px|link=緋赤エリオ]]
+  ||[[image:真黑花音-head.jpg|105px|link=真黑花音]]
+  ||[[image:礼绮罗-head.jpg|105px|link=礼绮罗]]
+  ||[[image:柚月はる-head.jpg|105px|link=柚月はる]]
+  ||[[image:霜月みのり-head.jpg|105px|link=霜月みのり]]
+  ||[[image:P妈-head.jpg|105px|link=P妈]]
 |- align="center"
-  ||[[晓千秋|暁ちあき]]<br><sub>晓千秋</sub>
-  ||[[oto酱|乙女おと]]<br><sub>oto酱</sub>
-  ||[[果冻妹|來夢めると]]<br><sub>果冻妹</sub>
-  ||[[古守血游|古守ちゆ]]<br><sub>古守血游</sub>
-  ||[[千铃鸣|千铃めい]]<br><sub>千铃鸣</sub>
-  ||[[缀目日伞|缀目日伞]]<br><sub></sub>
-  ||[[緋赤エリオ|緋赤エリオ]]<br><sub></sub>
-  ||[[真黑花音|真白かのん]]<br><sub>真黑花音</sub>
-  ||[[礼绮罗|れいきら]]<br><sub>礼绮罗</sub>
-  ||[[柚月はる|柚月はる]]<br><sub></sub>
-  ||[[霜月みのり|霜月みのり]]<br><sub></sub>
-  ||[[p妈|ぱりまま]]<br><sub>P妈</sub> 
+  ||[[晓千秋|暁ちあき]]<!--<br><sub>晓千秋</sub>-->
+  ||[[oto酱|乙女おと]]<!--<br><sub>oto酱</sub>-->
+  ||[[果冻妹|來夢めると]]<!--<br><sub>果冻妹</sub>-->
+  ||[[古守血游|古守ちゆ]]<!--<br><sub>古守血游</sub>-->
+  ||[[千铃鸣|千铃めい]]<!--<br><sub>千铃鸣</sub>-->
+  ||[[缀目日伞|缀目日伞]]<!--<br><sub></sub>-->
+  ||[[緋赤エリオ|緋赤エリオ]]<!--<br><sub></sub>-->
+  ||[[真黑花音|真白かのん]]<!--<br><sub>真黑花音</sub>-->
+  ||[[礼绮罗|れいきら]]<!--<br><sub>礼绮罗</sub>-->
+  ||[[柚月はる|柚月はる]]<!--<br><sub></sub>-->
+  ||[[霜月みのり|霜月みのり]]<!--<br><sub></sub>-->
+  ||[[P妈|ぱりまま]]<!--<br><sub>P妈</sub>--> 
 |}
 </center>
 </includeonly>
